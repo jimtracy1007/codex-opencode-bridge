@@ -1,0 +1,4 @@
+interface:
+  display_name: "Send to OpenCode"
+  short_description: "Dispatch a scoped task with a verified callback"
+  default_prompt: "Use $send2opencode to dispatch this scoped task to OpenCode and return a manifest-bound result."

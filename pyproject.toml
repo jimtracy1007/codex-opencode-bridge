@@ -1,0 +1,7 @@
+[tool.pytest.ini_options]
+testpaths = [
+  "skills/send2opencode/tests",
+  "skills/send2codex",
+]
+python_files = ["test_*.py"]
+addopts = "-q"
